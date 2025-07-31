@@ -34,9 +34,6 @@ A comprehensive car rental mobile application built with Kotlin and Jetpack Comp
 - **Database**: Room (if applicable)
 - **Build System**: Gradle with Kotlin DSL
 
-## 📱 Screenshots
-
-*Add screenshots of your app here*
 
 ## 🚀 Getting Started
 
@@ -118,13 +115,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Developer**: [Your Name]
+- **Developer**: Kelompok Rentalin
 - **Project**: RentalInn Android Application
 
 ## 📞 Support
 
 For support and questions, please contact:
-- Email: [your-email@example.com]
+- Email: muhammadadityamadjid@gmail.com
 - Project Issues: [GitHub Issues](https://github.com/yourusername/rentalinn-android/issues)
 
 ## 🔄 Version History
