@@ -1,6 +1,6 @@
 # RentalInn - Android Mobile Application
 
-A comprehensive car rental mobile application built with Kotlin and Jetpack Compose for Android.
+Link Backend https://github.com/SekcyAditya22/expressbackendm
 
 ## 🚀 Features
 
