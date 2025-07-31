@@ -31,7 +31,7 @@ A comprehensive car rental mobile application built with Kotlin and Jetpack Comp
 - **Dependency Injection**: Hilt
 - **Navigation**: Navigation Compose
 - **State Management**: ViewModel and StateFlow
-- **Database**: Room (if applicable)
+- **Database**: MySQL (Express JS Backend)
 - **Build System**: Gradle with Kotlin DSL
 
 
